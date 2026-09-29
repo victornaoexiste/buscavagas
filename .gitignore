@@ -1,0 +1,10 @@
+# Resultados gerados a cada execução
+vagas_*.csv
+vagas_vistas.json
+.~lock.*#
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
